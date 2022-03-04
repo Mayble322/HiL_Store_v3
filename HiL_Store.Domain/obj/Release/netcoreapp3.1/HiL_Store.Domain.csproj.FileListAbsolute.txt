@@ -1,0 +1,8 @@
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.Domain\bin\Release\netcoreapp3.1\HiL_Store.Domain.deps.json
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.Domain\bin\Release\netcoreapp3.1\HiL_Store.Domain.dll
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.Domain\bin\Release\netcoreapp3.1\HiL_Store.Domain.pdb
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.Domain\obj\Release\netcoreapp3.1\HiL_Store.Domain.csprojAssemblyReference.cache
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.Domain\obj\Release\netcoreapp3.1\HiL_Store.Domain.AssemblyInfoInputs.cache
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.Domain\obj\Release\netcoreapp3.1\HiL_Store.Domain.AssemblyInfo.cs
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.Domain\obj\Release\netcoreapp3.1\HiL_Store.Domain.dll
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.Domain\obj\Release\netcoreapp3.1\HiL_Store.Domain.pdb

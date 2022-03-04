@@ -1,0 +1,13 @@
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\bin\Release\netcoreapp3.1\HiL_Store.EntityFramework.deps.json
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\bin\Release\netcoreapp3.1\HiL_Store.EntityFramework.runtimeconfig.json
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\bin\Release\netcoreapp3.1\HiL_Store.EntityFramework.runtimeconfig.dev.json
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\bin\Release\netcoreapp3.1\HiL_Store.EntityFramework.dll
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\bin\Release\netcoreapp3.1\HiL_Store.EntityFramework.pdb
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\bin\Release\netcoreapp3.1\HiL_Store.Domain.dll
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\bin\Release\netcoreapp3.1\HiL_Store.Domain.pdb
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\obj\Release\netcoreapp3.1\HiL_Store.EntityFramework.csprojAssemblyReference.cache
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\obj\Release\netcoreapp3.1\HiL_Store.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\obj\Release\netcoreapp3.1\HiL_Store.EntityFramework.AssemblyInfo.cs
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\obj\Release\netcoreapp3.1\HiL_Store.EntityFramework.csproj.CopyComplete
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\obj\Release\netcoreapp3.1\HiL_Store.EntityFramework.dll
+C:\Users\Desh\Desktop\------\KPI\TRPZ-3\готово\TRPZ_LabTesting\Project_with_login\HiL_Store_v3\HiL_Store.EntityFramework\obj\Release\netcoreapp3.1\HiL_Store.EntityFramework.pdb
